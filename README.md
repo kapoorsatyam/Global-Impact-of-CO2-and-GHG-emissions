@@ -92,18 +92,4 @@ This project explores the **global impact of CO₂ and greenhouse gas (GHG) emis
 - Expand the analysis by incorporating additional datasets.  
 - Utilize advanced machine learning techniques to capture non-linear trends.  
 - Investigate the sustainability impacts of emissions reduction strategies.  
-
----
-
-## 📧 **Contact**  
-Feel free to reach out for collaboration or feedback:  
-**[Your Name]** – [Your Email]  
-
----
-
-## 📊 **Visuals**  
-### Example Charts  
-- **Trends in Per Capita Emissions**  
-![Chart: Emissions Trends](https://via.placeholder.com/800x400)  
-- **Sectoral Contributions to GHG Emissions**  
-![Chart: Sectoral Breakdown](https://via.placeholder.com/800x400)  
+ 
